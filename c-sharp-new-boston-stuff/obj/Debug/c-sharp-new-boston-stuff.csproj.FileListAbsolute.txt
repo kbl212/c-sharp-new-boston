@@ -1,0 +1,9 @@
+C:\Users\Kyle\funProjects\C#\c-sharp-new-boston-stuff\c-sharp-new-boston-stuff\bin\Debug\c-sharp-new-boston-stuff.exe.config
+C:\Users\Kyle\funProjects\C#\c-sharp-new-boston-stuff\c-sharp-new-boston-stuff\bin\Debug\c-sharp-new-boston-stuff.exe
+C:\Users\Kyle\funProjects\C#\c-sharp-new-boston-stuff\c-sharp-new-boston-stuff\bin\Debug\c-sharp-new-boston-stuff.pdb
+C:\Users\Kyle\funProjects\C#\c-sharp-new-boston-stuff\c-sharp-new-boston-stuff\obj\Debug\c-sharp-new-boston-stuff.csprojResolveAssemblyReference.cache
+C:\Users\Kyle\funProjects\C#\c-sharp-new-boston-stuff\c-sharp-new-boston-stuff\obj\Debug\c_sharp_new_boston_stuff.Form1.resources
+C:\Users\Kyle\funProjects\C#\c-sharp-new-boston-stuff\c-sharp-new-boston-stuff\obj\Debug\c_sharp_new_boston_stuff.Properties.Resources.resources
+C:\Users\Kyle\funProjects\C#\c-sharp-new-boston-stuff\c-sharp-new-boston-stuff\obj\Debug\c-sharp-new-boston-stuff.csproj.GenerateResource.Cache
+C:\Users\Kyle\funProjects\C#\c-sharp-new-boston-stuff\c-sharp-new-boston-stuff\obj\Debug\c-sharp-new-boston-stuff.exe
+C:\Users\Kyle\funProjects\C#\c-sharp-new-boston-stuff\c-sharp-new-boston-stuff\obj\Debug\c-sharp-new-boston-stuff.pdb
